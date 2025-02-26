@@ -16,7 +16,7 @@ struct ContentView: View {
                 .foregroundStyle(.orange)
             Text("You Are Blessed!")
                 .font(.largeTitle)
-                .fontWeight(.heavy)
+                .fontWeight(.bold)
                 .foregroundStyle(.yellow)
         }
         .padding()
